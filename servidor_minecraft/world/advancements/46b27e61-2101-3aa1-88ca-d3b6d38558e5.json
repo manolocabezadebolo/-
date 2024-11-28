@@ -1734,5 +1734,11 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/zinc_ingot_from_decompacting": {
+    "criteria": {
+      "has_item": "2024-11-28 03:49:39 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
