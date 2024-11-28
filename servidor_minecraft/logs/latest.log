@@ -661,3 +661,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'duneons:deleted_mod_element'
 [28Nov2024 02:15:43.965] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ASPESTO[/100.80.95.101:51194] logged in with entity id 177 at (-151.29204160622274, 170.37336348387308, -104.69188112315432)
 [28Nov2024 02:15:44.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ASPESTO joined the game
 [28Nov2024 02:32:41.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ASPESTO: Set the time to 1000]
+[28Nov2024 03:04:54.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ASPESTO: The difficulty has been set to Peaceful]
