@@ -695,3 +695,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'duneons:deleted_mod_element'
 [03Dec2024 23:26:12.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ASPESTO> 11 187 -66
 [03Dec2024 23:26:38.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ASPESTO> 13 146 -46
 [03Dec2024 23:27:06.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ASPESTO: Successfully filled 129 block(s)]
+[03Dec2024 23:42:59.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ASPESTO> 52 187 -34
+[03Dec2024 23:43:31.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ASPESTO> 40 146 -46
+[03Dec2024 23:43:54.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ASPESTO: Successfully filled 1349 block(s)]
