@@ -6853,3 +6853,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'duneons:deleted_mod_element'
 [03Dec2024 08:40:56.564] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [03Dec2024 08:45:56.547] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [03Dec2024 08:45:56.560] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Dec2024 08:49:49.176] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1784959 : 768128
+[03Dec2024 08:49:49.177] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: e74b8f18-fce1-4e14-9563-5b051fc89b4a watched ships: [84]
+[03Dec2024 08:50:56.548] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Dec2024 08:50:56.561] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Dec2024 08:55:56.550] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Dec2024 08:55:56.562] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
