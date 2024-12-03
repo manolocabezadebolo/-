@@ -663,3 +663,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'duneons:deleted_mod_element'
 [03Dec2024 06:41:22.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ASPESTO joined the game
 [03Dec2024 06:42:43.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ASPESTO: The difficulty has been set to Peaceful]
 [03Dec2024 07:30:34.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ASPESTO: Gave 1 [Air] to ASPESTO]
+[03Dec2024 09:48:49.478] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ASPESTO lost connection: Disconnected
+[03Dec2024 09:48:49.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ASPESTO left the game
