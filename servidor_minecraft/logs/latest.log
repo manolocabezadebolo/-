@@ -659,3 +659,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'duneons:deleted_mod_element'
 [03Dec2024 06:25:56.480] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (9.863s)! For help, type "help"
 [03Dec2024 06:25:56.521] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
 [03Dec2024 06:25:56.596] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[03Dec2024 06:41:22.795] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ASPESTO[/100.80.95.101:60622] logged in with entity id 118 at (-93.89918808828756, 208.88347005415181, 1.2410906378286761)
+[03Dec2024 06:41:22.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ASPESTO joined the game
+[03Dec2024 06:42:43.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ASPESTO: The difficulty has been set to Peaceful]
