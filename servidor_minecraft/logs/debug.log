@@ -6821,3 +6821,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'duneons:deleted_mod_element'
 [03Dec2024 22:03:57.032] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [03Dec2024 22:08:57.023] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [03Dec2024 22:08:57.036] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Dec2024 22:13:57.028] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Dec2024 22:13:57.043] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Dec2024 22:17:15.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ASPESTO> -31 177 -58
+[03Dec2024 22:17:37.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ASPESTO> -43 172 -70
+[03Dec2024 22:18:41.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ASPESTO: Successfully filled 782 block(s)]
+[03Dec2024 22:18:57.022] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Dec2024 22:18:57.036] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
