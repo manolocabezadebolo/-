@@ -661,3 +661,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'duneons:deleted_mod_element'
 [03Dec2024 20:43:56.981] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
 [03Dec2024 20:45:27.355] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ASPESTO[/100.80.95.101:49548] logged in with entity id 126 at (-34.41298563179873, 200.13173152477574, -68.8857210523996)
 [03Dec2024 20:45:27.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ASPESTO joined the game
+[03Dec2024 21:20:03.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ASPESTO: The difficulty has been set to Peaceful]
