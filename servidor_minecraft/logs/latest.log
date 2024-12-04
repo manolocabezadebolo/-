@@ -2,3 +2,5 @@
 [04Dec2024 00:06:57.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ASPESTO> -58 200 -51
 [04Dec2024 00:07:24.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ASPESTO: Successfully filled 357 block(s)]
 [04Dec2024 00:33:54.479] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2147ms or 42 ticks behind
+[04Dec2024 00:56:23.285] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ASPESTO lost connection: Disconnected
+[04Dec2024 00:56:23.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ASPESTO left the game
