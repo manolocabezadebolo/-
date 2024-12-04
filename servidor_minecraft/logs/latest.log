@@ -673,3 +673,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'duneons:deleted_mod_element'
 [04Dec2024 07:08:39.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ASPESTO left the game
 [04Dec2024 07:28:04.554] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ASPESTO[/100.80.95.101:51640] logged in with entity id 4262 at (-61.719445514564555, 148.86892878505247, -48.1716142385468)
 [04Dec2024 07:28:04.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ASPESTO joined the game
+[04Dec2024 08:43:54.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ASPESTO> -73 135 -32
+[04Dec2024 08:44:17.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ASPESTO> -60 135 -48
+[04Dec2024 08:46:00.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ASPESTO: Successfully filled 208 block(s)]
+[04Dec2024 08:47:15.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ASPESTO: The difficulty has been set to Normal]
+[04Dec2024 08:47:32.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ASPESTO: The difficulty has been set to Peaceful]
