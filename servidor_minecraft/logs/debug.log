@@ -6958,3 +6958,20 @@ com.google.gson.JsonSyntaxException: Unknown item 'duneons:deleted_mod_element'
 [04Dec2024 00:43:03.686] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1784960 : 768129
 [04Dec2024 00:43:59.113] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [04Dec2024 00:43:59.127] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 00:46:38.390] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1784960 : 768129
+[04Dec2024 00:46:38.485] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1784960 : 768127
+[04Dec2024 00:46:38.485] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1784960 : 768128
+[04Dec2024 00:48:25.087] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1784959 : 768128
+[04Dec2024 00:48:25.087] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 42d32f50-cfaf-4192-a92b-f1856b09c70c unwatched ships [84]
+[04Dec2024 00:48:55.736] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1784959 : 768128
+[04Dec2024 00:48:55.736] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 42d32f50-cfaf-4192-a92b-f1856b09c70c watched ships: [84]
+[04Dec2024 00:48:59.115] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 00:48:59.128] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 00:50:20.736] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1784959 : 768128
+[04Dec2024 00:50:20.737] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 42d32f50-cfaf-4192-a92b-f1856b09c70c unwatched ships [84]
+[04Dec2024 00:50:55.835] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1784959 : 768128
+[04Dec2024 00:50:55.835] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 42d32f50-cfaf-4192-a92b-f1856b09c70c watched ships: [84]
+[04Dec2024 00:53:59.112] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 00:53:59.125] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 00:55:18.036] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1784959 : 768128
+[04Dec2024 00:55:18.036] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 42d32f50-cfaf-4192-a92b-f1856b09c70c unwatched ships [84]
