@@ -1752,6 +1752,12 @@
     },
     "done": true
   },
+  "createbigcannons:recipes/misc/yaw_controller": {
+    "criteria": {
+      "has_cannon_mount": "2024-12-04 00:15:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2024-12-03 21:18:37 +0000"
