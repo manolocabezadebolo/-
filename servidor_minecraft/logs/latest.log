@@ -669,3 +669,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'duneons:deleted_mod_element'
 [04Dec2024 06:15:02.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ASPESTO> -78 147 -29
 [04Dec2024 06:15:39.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ASPESTO> -57 193 -51
 [04Dec2024 06:16:08.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ASPESTO: Successfully filled 4172 block(s)]
+[04Dec2024 07:08:39.109] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ASPESTO lost connection: Disconnected
+[04Dec2024 07:08:39.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ASPESTO left the game
