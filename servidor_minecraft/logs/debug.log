@@ -8741,3 +8741,59 @@ java.lang.NullPointerException: null
 [05Dec2024 08:30:18.133] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1784192 : 768129
 [05Dec2024 08:34:44.364] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05Dec2024 08:34:44.377] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 08:39:44.364] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 08:39:44.378] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 08:41:43.461] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1784193 : 768128
+[05Dec2024 08:41:43.462] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 2f613f53-3c0f-436f-b9b5-79aef83d47fe unwatched ships [111]
+[05Dec2024 08:41:46.976] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1783680 : 768127
+[05Dec2024 08:43:15.179] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1783680 : 768127
+[05Dec2024 08:43:17.177] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1784193 : 768128
+[05Dec2024 08:43:17.177] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 2f613f53-3c0f-436f-b9b5-79aef83d47fe watched ships: [111]
+[05Dec2024 08:43:17.978] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1784192 : 768127
+[05Dec2024 08:43:17.978] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1784192 : 768128
+[05Dec2024 08:43:18.148] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1784192 : 768129
+[05Dec2024 08:43:18.726] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1784191 : 768128
+[05Dec2024 08:43:19.177] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1782656 : 768127
+[05Dec2024 08:43:19.177] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 2f613f53-3c0f-436f-b9b5-79aef83d47fe watched ships: [117]
+[05Dec2024 08:43:19.236] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1783423 : 768127
+[05Dec2024 08:43:19.237] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 2f613f53-3c0f-436f-b9b5-79aef83d47fe watched ships: [114]
+[05Dec2024 08:43:19.352] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1783166 : 768128
+[05Dec2024 08:43:19.353] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 2f613f53-3c0f-436f-b9b5-79aef83d47fe watched ships: [115]
+[05Dec2024 08:43:19.413] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1783422 : 768128
+[05Dec2024 08:43:19.472] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1782655 : 768128
+[05Dec2024 08:43:19.529] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1782912 : 768127
+[05Dec2024 08:43:19.529] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 2f613f53-3c0f-436f-b9b5-79aef83d47fe watched ships: [116]
+[05Dec2024 08:43:19.708] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1783424 : 768127
+[05Dec2024 08:43:19.708] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1783167 : 768129
+[05Dec2024 08:43:20.025] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1782656 : 768128
+[05Dec2024 08:43:20.025] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1783423 : 768128
+[05Dec2024 08:43:20.084] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1782911 : 768128
+[05Dec2024 08:43:20.140] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1783167 : 768128
+[05Dec2024 08:43:20.140] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1783422 : 768129
+[05Dec2024 08:43:20.317] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1782912 : 768128
+[05Dec2024 08:43:20.335] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1782657 : 768128
+[05Dec2024 08:43:25.030] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1782912 : 768128
+[05Dec2024 08:43:25.030] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1782657 : 768128
+[05Dec2024 08:43:25.181] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1783422 : 768129
+[05Dec2024 08:43:25.228] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1782911 : 768128
+[05Dec2024 08:43:25.228] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1783167 : 768128
+[05Dec2024 08:43:25.378] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1782656 : 768128
+[05Dec2024 08:43:25.378] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1783423 : 768128
+[05Dec2024 08:43:25.578] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1783424 : 768127
+[05Dec2024 08:43:25.578] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1783167 : 768129
+[05Dec2024 08:43:25.778] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1782912 : 768127
+[05Dec2024 08:43:25.778] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 2f613f53-3c0f-436f-b9b5-79aef83d47fe unwatched ships [116]
+[05Dec2024 08:43:25.876] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1782655 : 768128
+[05Dec2024 08:43:25.926] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1783422 : 768128
+[05Dec2024 08:43:26.076] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1783166 : 768128
+[05Dec2024 08:43:26.077] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 2f613f53-3c0f-436f-b9b5-79aef83d47fe unwatched ships [115]
+[05Dec2024 08:43:26.126] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1783423 : 768127
+[05Dec2024 08:43:26.127] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 2f613f53-3c0f-436f-b9b5-79aef83d47fe unwatched ships [114]
+[05Dec2024 08:43:26.175] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1782656 : 768127
+[05Dec2024 08:43:26.176] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 2f613f53-3c0f-436f-b9b5-79aef83d47fe unwatched ships [117]
+[05Dec2024 08:43:26.679] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1784191 : 768128
+[05Dec2024 08:44:44.363] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 08:44:44.374] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 08:45:04.576] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1784192 : 768127
+[05Dec2024 08:45:04.827] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1784192 : 768129
+[05Dec2024 08:45:05.179] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1784192 : 768128
