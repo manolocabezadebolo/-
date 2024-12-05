@@ -664,3 +664,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'duneons:deleted_mod_element'
 [05Dec2024 18:46:07.173] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 7209 ms
 [05Dec2024 18:46:07.174] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (12.489s)! For help, type "help"
 [05Dec2024 18:46:07.231] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[05Dec2024 19:35:55.021] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ASPESTO[/100.80.95.101:56919] logged in with entity id 136 at (59.551235863703944, 138.87605972864685, -21.537978461763032)
+[05Dec2024 19:35:55.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ASPESTO joined the game
+[05Dec2024 19:35:57.241] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2059ms or 41 ticks behind
+[05Dec2024 19:37:27.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ASPESTO: Set the time to 1000]
+[05Dec2024 19:37:34.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ASPESTO: The difficulty has been set to Peaceful]
+[05Dec2024 19:41:39.998] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8534772650000006E7, 123.99998093514462, 2.6568975001573563] -> [145.2997829541564, 125.7999808874609, 1.2290062650000006E7] returning empty list! this might break things
+[05Dec2024 19:42:10.992] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8534772650000006E7, 124.0, 2.603274926543236] -> [145.04695021733642, 125.8887298045093, 1.2290062650000006E7] returning empty list! this might break things
+[05Dec2024 19:44:47.494] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8534772650000006E7, 122.08302467562643, 6.2024303656071424] -> [147.74493327364326, 124.30000001192093, 1.2290062650000006E7] returning empty list! this might break things
+[05Dec2024 19:44:52.544] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8534772650000006E7, 122.1430151733192, 4.933816180849801] -> [149.8203072544084, 124.30000001192093, 1.2290062650000006E7] returning empty list! this might break things

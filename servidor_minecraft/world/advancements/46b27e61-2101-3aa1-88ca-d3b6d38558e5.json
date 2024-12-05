@@ -2172,6 +2172,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/appliances/clipboard_clear": {
+    "criteria": {
+      "has_item": "2024-12-05 07:09:35 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/stressometerfrom_conversion": {
     "criteria": {
       "has_item": "2024-12-05 07:16:24 +0000"
@@ -2181,12 +2187,6 @@
   "create:display_link": {
     "criteria": {
       "0": "2024-12-05 07:16:57 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/appliances/clipboard_clear": {
-    "criteria": {
-      "has_item": "2024-12-05 07:09:35 +0000"
     },
     "done": true
   },
