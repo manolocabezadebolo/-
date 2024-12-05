@@ -6878,3 +6878,19 @@ com.google.gson.JsonSyntaxException: Unknown item 'duneons:deleted_mod_element'
 [05Dec2024 04:16:40.253] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [05Dec2024 04:21:40.248] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05Dec2024 04:21:40.260] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 04:23:38.210] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1784961 : 768128
+[05Dec2024 04:23:38.861] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1784960 : 768129
+[05Dec2024 04:23:39.460] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1784960 : 768128
+[05Dec2024 04:23:40.710] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1784960 : 768127
+[05Dec2024 04:23:41.486] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1784959 : 768128
+[05Dec2024 04:23:41.487] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 34acf8e9-8fa9-4b3e-bcd7-d578fe4721f4 unwatched ships [84]
+[05Dec2024 04:23:48.733] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1784959 : 768128
+[05Dec2024 04:23:48.734] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 34acf8e9-8fa9-4b3e-bcd7-d578fe4721f4 watched ships: [84]
+[05Dec2024 04:23:49.163] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1784960 : 768127
+[05Dec2024 04:23:49.861] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1784960 : 768128
+[05Dec2024 04:24:51.511] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1784960 : 768129
+[05Dec2024 04:24:52.211] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1784961 : 768128
+[05Dec2024 04:26:40.238] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 04:26:40.252] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 04:31:40.246] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 04:31:40.260] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
