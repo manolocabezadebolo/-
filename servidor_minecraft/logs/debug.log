@@ -7181,3 +7181,7 @@ java.lang.NullPointerException: null
 	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
 	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
 [05Dec2024 19:52:32.046] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity vs_clockwork:phys_bearing @ BlockPos{x=146, y=121, z=8} state Block{minecraft:air} invalid for ticking:
+[05Dec2024 19:56:09.338] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 19:56:09.352] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 20:01:09.341] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 20:01:09.355] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
