@@ -1564,3 +1564,9 @@ java.lang.NullPointerException: null
 [05Dec2024 22:56:24.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ASPESTO> -69 201 -36
 [05Dec2024 22:56:44.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ASPESTO: Successfully filled 1518 block(s)]
 [05Dec2024 22:57:26.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ASPESTO> -81 201 -14
+[05Dec2024 22:57:47.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ASPESTO> -109 214 3
+[05Dec2024 22:58:06.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ASPESTO: Successfully filled 522 block(s)]
+[05Dec2024 22:58:34.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ASPESTO> -111 200 -20
+[05Dec2024 22:59:01.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ASPESTO> -103 219 -67
+[05Dec2024 22:59:22.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ASPESTO: Successfully filled 354 block(s)]
+[05Dec2024 23:05:17.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ASPESTO: Set the time to 1000]
