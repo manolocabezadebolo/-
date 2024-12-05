@@ -1544,3 +1544,10 @@ java.lang.NullPointerException: null
 [05Dec2024 20:48:19.689] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'generic.maxHealth'
 [05Dec2024 20:48:19.689] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity duneons:warmdrowned but it was marked as removed already
 [05Dec2024 20:55:09.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ASPESTO: Set the time to 1000]
+[05Dec2024 22:44:31.341] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ASPESTO lost connection: Disconnected
+[05Dec2024 22:44:31.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ASPESTO left the game
+[05Dec2024 22:44:31.388] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[05Dec2024 22:44:31.391] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ASPESTO[/100.80.95.101:59976] logged in with entity id 5960 at (-7.930886659619407, 200.84252820133005, -46.79161061339293)
+[05Dec2024 22:44:31.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ASPESTO joined the game
+[05Dec2024 22:44:53.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ASPESTO: Set the weather to clear]
+[05Dec2024 22:44:59.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ASPESTO: Set the time to 1000]
