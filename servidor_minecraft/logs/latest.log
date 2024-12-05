@@ -1,36 +1,36 @@
-[05Dec2024 01:40:43.774] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.2.20, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
-[05Dec2024 01:40:43.778] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.4 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
-[05Dec2024 01:40:46.287] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[05Dec2024 01:40:46.337] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/-/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[05Dec2024 01:40:46.681] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/-/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.2.20/fmlcore-1.20.1-47.2.20.jar is missing mods.toml file
-[05Dec2024 01:40:46.682] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/-/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.2.20/javafmllanguage-1.20.1-47.2.20.jar is missing mods.toml file
-[05Dec2024 01:40:46.683] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/-/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.2.20/lowcodelanguage-1.20.1-47.2.20.jar is missing mods.toml file
-[05Dec2024 01:40:46.684] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/-/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.2.20/mclanguage-1.20.1-47.2.20.jar is missing mods.toml file
-[05Dec2024 01:40:47.146] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: flywheel. Using Mod File: /workspaces/-/servidor_minecraft/mods/flywheel-forge-1.20.1-0.6.10-7 copy.jar
-[05Dec2024 01:40:47.147] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: cloth_config. Using Mod File: /workspaces/-/servidor_minecraft/mods/cloth-config-11.1.118-forge copy.jar
-[05Dec2024 01:40:47.147] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 28 dependencies adding them to mods collection
-[05Dec2024 01:40:48.928] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[05Dec2024 01:40:49.031] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.sonicether.soundphysics.MixinConnector]
-[05Dec2024 01:40:49.032] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [org.tlauncher.MixinConnector]
-[05Dec2024 01:40:49.035] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
-[05Dec2024 01:40:49.051] [main/WARN] [mixin/]: Reference map 'eureka-1201-forge-refmap.json' for vs_eureka.mixins.json could not be read. If this is a development environment you can ignore this message
-[05Dec2024 01:40:49.056] [main/WARN] [mixin/]: Reference map 'ritchiesprojectilelib-forge-refmap.json' for ritchiesprojectilelib-forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[05Dec2024 01:40:49.070] [main/WARN] [mixin/]: Reference map 'coroutil.refmap.json' for coroutil.mixins.json could not be read. If this is a development environment you can ignore this message
-[05Dec2024 01:40:50.266] [main/WARN] [mixin/]: Error loading class: com/jamieswhiteshirt/reachentityattributes/ReachEntityAttributes (java.lang.ClassNotFoundException: com.jamieswhiteshirt.reachentityattributes.ReachEntityAttributes)
-[05Dec2024 01:40:50.306] [main/WARN] [mixin/]: Error loading class: blusunrize/immersiveengineering/common/gui/BlockEntityInventory (java.lang.ClassNotFoundException: blusunrize.immersiveengineering.common.gui.BlockEntityInventory)
-[05Dec2024 01:40:50.308] [main/WARN] [mixin/]: Error loading class: net/dries007/tfc/world/TFCChunkGenerator (java.lang.ClassNotFoundException: net.dries007.tfc.world.TFCChunkGenerator)
-[05Dec2024 01:40:50.309] [main/WARN] [mixin/]: Error loading class: cofh/core/block/entity/TileCoFH (java.lang.ClassNotFoundException: cofh.core.block.entity.TileCoFH)
-[05Dec2024 01:40:50.311] [main/WARN] [mixin/]: Error loading class: li/cil/tis3d/common/entity/InfraredPacketEntity (java.lang.ClassNotFoundException: li.cil.tis3d.common.entity.InfraredPacketEntity)
-[05Dec2024 01:40:50.313] [main/WARN] [mixin/]: Error loading class: me/desht/modularrouters/container/RouterMenu (java.lang.ClassNotFoundException: me.desht.modularrouters.container.RouterMenu)
-[05Dec2024 01:40:50.320] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER
-[05Dec2024 01:40:50.321] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/player/AbstractClientPlayer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER)
-[05Dec2024 01:40:50.321] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.player.AbstractClientPlayer was not found tlskincape-mixins.json:MixinAbstractPlayer
-[05Dec2024 01:40:50.324] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER
-[05Dec2024 01:40:50.324] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/TitleScreen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER)
-[05Dec2024 01:40:50.325] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.TitleScreen was not found tlskincape-mixins.json:MixinMainMenu
-[05Dec2024 01:40:50.327] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/model/PlayerModel (java.lang.ClassNotFoundException: net.minecraft.client.model.PlayerModel)
-[05Dec2024 01:40:50.327] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.model.PlayerModel was not found tlskincape-mixins.json:MixinPlayerModel
-[05Dec2024 01:40:50.436] [main/ERROR] [mixin/]: valkyrienskies-common.mixins.json:feature.container_distance_check.MixinContainer: Interface mixin contains a non-public method! Found includeShipsInDistanceCheck(Lnet/minecraft/world/entity/player/Player;DDD)D in valkyrienskies-common.mixins.json:feature.container_distance_check.MixinContainer
+[05Dec2024 07:03:54.152] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.2.20, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[05Dec2024 07:03:54.155] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.4 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
+[05Dec2024 07:03:56.599] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[05Dec2024 07:03:56.654] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/-/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[05Dec2024 07:03:56.991] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/-/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.2.20/fmlcore-1.20.1-47.2.20.jar is missing mods.toml file
+[05Dec2024 07:03:56.992] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/-/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.2.20/javafmllanguage-1.20.1-47.2.20.jar is missing mods.toml file
+[05Dec2024 07:03:56.993] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/-/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.2.20/lowcodelanguage-1.20.1-47.2.20.jar is missing mods.toml file
+[05Dec2024 07:03:56.994] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/-/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.2.20/mclanguage-1.20.1-47.2.20.jar is missing mods.toml file
+[05Dec2024 07:03:57.461] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: flywheel. Using Mod File: /workspaces/-/servidor_minecraft/mods/flywheel-forge-1.20.1-0.6.10-7 copy.jar
+[05Dec2024 07:03:57.461] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: cloth_config. Using Mod File: /workspaces/-/servidor_minecraft/mods/cloth-config-11.1.118-forge copy.jar
+[05Dec2024 07:03:57.462] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 28 dependencies adding them to mods collection
+[05Dec2024 07:03:59.432] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[05Dec2024 07:03:59.543] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.sonicether.soundphysics.MixinConnector]
+[05Dec2024 07:03:59.544] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [org.tlauncher.MixinConnector]
+[05Dec2024 07:03:59.547] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[05Dec2024 07:03:59.558] [main/WARN] [mixin/]: Reference map 'eureka-1201-forge-refmap.json' for vs_eureka.mixins.json could not be read. If this is a development environment you can ignore this message
+[05Dec2024 07:03:59.561] [main/WARN] [mixin/]: Reference map 'ritchiesprojectilelib-forge-refmap.json' for ritchiesprojectilelib-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[05Dec2024 07:03:59.572] [main/WARN] [mixin/]: Reference map 'coroutil.refmap.json' for coroutil.mixins.json could not be read. If this is a development environment you can ignore this message
+[05Dec2024 07:04:00.563] [main/WARN] [mixin/]: Error loading class: com/jamieswhiteshirt/reachentityattributes/ReachEntityAttributes (java.lang.ClassNotFoundException: com.jamieswhiteshirt.reachentityattributes.ReachEntityAttributes)
+[05Dec2024 07:04:00.586] [main/WARN] [mixin/]: Error loading class: blusunrize/immersiveengineering/common/gui/BlockEntityInventory (java.lang.ClassNotFoundException: blusunrize.immersiveengineering.common.gui.BlockEntityInventory)
+[05Dec2024 07:04:00.587] [main/WARN] [mixin/]: Error loading class: net/dries007/tfc/world/TFCChunkGenerator (java.lang.ClassNotFoundException: net.dries007.tfc.world.TFCChunkGenerator)
+[05Dec2024 07:04:00.588] [main/WARN] [mixin/]: Error loading class: cofh/core/block/entity/TileCoFH (java.lang.ClassNotFoundException: cofh.core.block.entity.TileCoFH)
+[05Dec2024 07:04:00.589] [main/WARN] [mixin/]: Error loading class: li/cil/tis3d/common/entity/InfraredPacketEntity (java.lang.ClassNotFoundException: li.cil.tis3d.common.entity.InfraredPacketEntity)
+[05Dec2024 07:04:00.591] [main/WARN] [mixin/]: Error loading class: me/desht/modularrouters/container/RouterMenu (java.lang.ClassNotFoundException: me.desht.modularrouters.container.RouterMenu)
+[05Dec2024 07:04:00.596] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER
+[05Dec2024 07:04:00.597] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/player/AbstractClientPlayer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER)
+[05Dec2024 07:04:00.597] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.player.AbstractClientPlayer was not found tlskincape-mixins.json:MixinAbstractPlayer
+[05Dec2024 07:04:00.599] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER
+[05Dec2024 07:04:00.599] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/TitleScreen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER)
+[05Dec2024 07:04:00.600] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.TitleScreen was not found tlskincape-mixins.json:MixinMainMenu
+[05Dec2024 07:04:00.600] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/model/PlayerModel (java.lang.ClassNotFoundException: net.minecraft.client.model.PlayerModel)
+[05Dec2024 07:04:00.600] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.model.PlayerModel was not found tlskincape-mixins.json:MixinPlayerModel
+[05Dec2024 07:04:00.719] [main/ERROR] [mixin/]: valkyrienskies-common.mixins.json:feature.container_distance_check.MixinContainer: Interface mixin contains a non-public method! Found includeShipsInDistanceCheck(Lnet/minecraft/world/entity/player/Player;DDD)D in valkyrienskies-common.mixins.json:feature.container_distance_check.MixinContainer
 org.spongepowered.asm.mixin.transformer.throwables.InvalidInterfaceMixinException: Interface mixin contains a non-public method! Found includeShipsInDistanceCheck(Lnet/minecraft/world/entity/player/Player;DDD)D in valkyrienskies-common.mixins.json:feature.container_distance_check.MixinContainer
 	at org.spongepowered.asm.mixin.transformer.MixinPreProcessorInterface.prepareMethod(MixinPreProcessorInterface.java:65) ~[mixin-0.8.5.jar%2365!/:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
 	at org.spongepowered.asm.mixin.transformer.MixinPreProcessorStandard.prepare(MixinPreProcessorStandard.java:187) ~[mixin-0.8.5.jar%2365!/:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
@@ -69,94 +69,94 @@ org.spongepowered.asm.mixin.transformer.throwables.InvalidInterfaceMixinExceptio
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[05Dec2024 01:40:50.492] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
-[05Dec2024 01:40:54.643] [main/WARN] [mixin/]: @Final field f_31427_:[I in mixins.epicfight.json:MixinWitherBoss should be final
-[05Dec2024 01:40:54.644] [main/WARN] [mixin/]: @Final field f_31428_:[I in mixins.epicfight.json:MixinWitherBoss should be final
-[05Dec2024 01:40:57.231] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
-[05Dec2024 01:40:57.232] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
-[05Dec2024 01:40:57.232] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
-[05Dec2024 01:40:57.232] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
-[05Dec2024 01:40:58.678] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.insanelib.module.base.TagsFeature
-[05Dec2024 01:40:58.714] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.insanelib.module.base.FixFeature
-[05Dec2024 01:40:58.717] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.insanelib.module.base.BaseFeature
-[05Dec2024 01:40:58.718] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.insanelib.module.base.AEC3DFeature
-[05Dec2024 01:40:58.826] [modloading-worker-0/INFO] [coroutil/]: forge loader environment detected
-[05Dec2024 01:40:58.860] [modloading-worker-0/INFO] [epicfight/]: Loaded mod compat: GeckolibCompat
-[05Dec2024 01:40:58.958] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.2.20, for MC 1.20.1 with MCP 20230612.114412
-[05Dec2024 01:40:58.959] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.2.20 Initialized
-[05Dec2024 01:40:59.989] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
-[05Dec2024 01:41:00.186] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[05Dec2024 01:41:00.197] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.witch.WitchFleeTarget
-[05Dec2024 01:41:00.218] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.witch.throwing.WitchPotionThrowing
-[05Dec2024 01:41:00.223] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.witch.ThirstyWitches
-[05Dec2024 01:41:00.224] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.witch.darkart.DarkArtWitch
-[05Dec2024 01:41:00.240] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.warden.Warden
-[05Dec2024 01:41:00.245] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.villager.VillagerAttacking
-[05Dec2024 01:41:00.247] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.spider.webber.ThrowingWeb
-[05Dec2024 01:41:00.250] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.spider.Misc
-[05Dec2024 01:41:00.270] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.slime.Slimes
-[05Dec2024 01:41:00.271] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.skeleton.WitherSkeletons
-[05Dec2024 01:41:00.273] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.skeleton.SkeletonFleeTarget
-[05Dec2024 01:41:00.285] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.skeleton.shoot.SkeletonShoot
-[05Dec2024 01:41:00.288] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.shulker.ShulkerBullets
-[05Dec2024 01:41:00.297] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.shulker.shulkerattack.ShulkerAttack
-[05Dec2024 01:41:00.312] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.shulker.ShulkerArmor
-[05Dec2024 01:41:00.314] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.pets.Wolves
-[05Dec2024 01:41:00.331] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.pets.snowgolem.SnowGolems
-[05Dec2024 01:41:00.335] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.pets.IronGolems
-[05Dec2024 01:41:00.360] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.WardenInteractions
-[05Dec2024 01:41:00.365] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.targeting.Targeting
-[05Dec2024 01:41:00.385] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.Spawning
-[05Dec2024 01:41:00.386] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.riding.Riding
-[05Dec2024 01:41:00.389] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.pearler.PearlerMobs
-[05Dec2024 01:41:00.391] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.OpenDoors
-[05Dec2024 01:41:00.393] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.movement.Movement
-[05Dec2024 01:41:00.396] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.miner.MinerMobs
-[05Dec2024 01:41:00.399] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.MeleeAttacking
-[05Dec2024 01:41:00.400] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.leap.Leap
-[05Dec2024 01:41:00.402] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.Jump
-[05Dec2024 01:41:00.410] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.ItemDisruption
-[05Dec2024 01:41:00.421] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.flee.Flee
-[05Dec2024 01:41:00.429] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.fisher.FisherMobs
-[05Dec2024 01:41:00.442] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.breakanger.BreakAnger
-[05Dec2024 01:41:00.448] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.BitingMobs
-[05Dec2024 01:41:00.457] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.avoidexplosion.AvoidExplosions
-[05Dec2024 01:41:00.460] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.anticheese.AntiCheese
-[05Dec2024 01:41:00.472] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.illager.shoot.PillagerShoot
-[05Dec2024 01:41:00.476] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.illager.RavagerFeature
-[05Dec2024 01:41:00.481] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.illager.PillagerFleeTarget
-[05Dec2024 01:41:00.489] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.ghast.GhastShoot
-[05Dec2024 01:41:00.505] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.enderman.getoverhere.GetOverHere
-[05Dec2024 01:41:00.507] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.drowned.DrownedSwimming
-[05Dec2024 01:41:00.524] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.creeper.CreeperSwell
-[05Dec2024 01:41:00.542] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.bugs.silverfish.SilverfishFeature
-[05Dec2024 01:41:00.545] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.blaze.BlazeAttack
-[05Dec2024 01:41:00.572] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.animal.NotTemptedAnimals
-[05Dec2024 01:41:00.574] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.animal.AnimalsGroupFlee
-[05Dec2024 01:41:00.578] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.animal.AnimalScaredAttack
-[05Dec2024 01:41:00.693] [modloading-worker-0/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on valkyrienskies-common.mixins.json:mod_compat.create.block.MixinRedstoneContactBlock::handler$zgm000$injectTick exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
-[05Dec2024 01:41:02.586] [modloading-worker-0/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class yesman.epicfight.world.capabilities.entitypatch.player.PlayerPatch
-[05Dec2024 01:41:07.229] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[05Dec2024 01:41:07.229] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[05Dec2024 01:41:07.230] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[05Dec2024 01:41:07.230] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[05Dec2024 01:41:07.230] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[05Dec2024 01:41:07.230] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[05Dec2024 01:41:07.230] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[05Dec2024 01:41:07.230] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[05Dec2024 01:41:07.231] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[05Dec2024 01:41:07.340] [modloading-worker-0/INFO] [thetadev.constructionwand.ConstructionWand/]: ConstructionWand says hello - may the odds be ever in your favor.
-[05Dec2024 01:41:07.429] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[05Dec2024 01:41:07.429] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
-[05Dec2024 01:41:07.429] [main/INFO] [terrablender/]: Registered region regions_unexplored:primary to index 1 for type OVERWORLD
-[05Dec2024 01:41:07.429] [main/INFO] [terrablender/]: Registered region regions_unexplored:secondary to index 2 for type OVERWORLD
-[05Dec2024 01:41:07.430] [main/INFO] [terrablender/]: Registered region regions_unexplored:nether to index 1 for type NETHER
-[05Dec2024 01:41:07.627] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Starting version check at https://update.maxhenkel.de/forge/sound_physics_remastered
-[05Dec2024 01:41:08.867] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Found status: AHEAD Current: 1.20.1-1.4.5 Target: null
-[05Dec2024 01:41:08.868] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[05Dec2024 01:41:09.078] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.2.20 Target: 47.3.0
-[05Dec2024 01:41:09.079] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [duneons] Starting version check at https://www.curseforge.com/minecraft/mc-mods/minecraft-dungeons-content/files
-[05Dec2024 01:41:09.567] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[05Dec2024 07:04:00.783] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
+[05Dec2024 07:04:04.673] [main/WARN] [mixin/]: @Final field f_31427_:[I in mixins.epicfight.json:MixinWitherBoss should be final
+[05Dec2024 07:04:04.674] [main/WARN] [mixin/]: @Final field f_31428_:[I in mixins.epicfight.json:MixinWitherBoss should be final
+[05Dec2024 07:04:06.767] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
+[05Dec2024 07:04:06.768] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
+[05Dec2024 07:04:06.768] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
+[05Dec2024 07:04:06.768] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
+[05Dec2024 07:04:08.109] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.insanelib.module.base.TagsFeature
+[05Dec2024 07:04:08.155] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.insanelib.module.base.FixFeature
+[05Dec2024 07:04:08.159] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.insanelib.module.base.BaseFeature
+[05Dec2024 07:04:08.160] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.insanelib.module.base.AEC3DFeature
+[05Dec2024 07:04:08.281] [modloading-worker-0/INFO] [coroutil/]: forge loader environment detected
+[05Dec2024 07:04:08.285] [modloading-worker-0/INFO] [epicfight/]: Loaded mod compat: GeckolibCompat
+[05Dec2024 07:04:08.360] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.2.20, for MC 1.20.1 with MCP 20230612.114412
+[05Dec2024 07:04:08.367] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.2.20 Initialized
+[05Dec2024 07:04:09.374] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
+[05Dec2024 07:04:09.569] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[05Dec2024 07:04:09.593] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.witch.WitchFleeTarget
+[05Dec2024 07:04:09.597] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.witch.throwing.WitchPotionThrowing
+[05Dec2024 07:04:09.601] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.witch.ThirstyWitches
+[05Dec2024 07:04:09.610] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.witch.darkart.DarkArtWitch
+[05Dec2024 07:04:09.622] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.warden.Warden
+[05Dec2024 07:04:09.625] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.villager.VillagerAttacking
+[05Dec2024 07:04:09.629] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.spider.webber.ThrowingWeb
+[05Dec2024 07:04:09.631] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.spider.Misc
+[05Dec2024 07:04:09.645] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.slime.Slimes
+[05Dec2024 07:04:09.646] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.skeleton.WitherSkeletons
+[05Dec2024 07:04:09.648] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.skeleton.SkeletonFleeTarget
+[05Dec2024 07:04:09.649] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.skeleton.shoot.SkeletonShoot
+[05Dec2024 07:04:09.650] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.shulker.ShulkerBullets
+[05Dec2024 07:04:09.660] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.shulker.shulkerattack.ShulkerAttack
+[05Dec2024 07:04:09.666] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.shulker.ShulkerArmor
+[05Dec2024 07:04:09.667] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.pets.Wolves
+[05Dec2024 07:04:09.680] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.pets.snowgolem.SnowGolems
+[05Dec2024 07:04:09.683] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.pets.IronGolems
+[05Dec2024 07:04:09.691] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.WardenInteractions
+[05Dec2024 07:04:09.695] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.targeting.Targeting
+[05Dec2024 07:04:09.704] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.Spawning
+[05Dec2024 07:04:09.719] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.riding.Riding
+[05Dec2024 07:04:09.722] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.pearler.PearlerMobs
+[05Dec2024 07:04:09.756] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.OpenDoors
+[05Dec2024 07:04:09.758] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.movement.Movement
+[05Dec2024 07:04:09.760] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.miner.MinerMobs
+[05Dec2024 07:04:09.763] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.MeleeAttacking
+[05Dec2024 07:04:09.765] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.leap.Leap
+[05Dec2024 07:04:09.777] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.Jump
+[05Dec2024 07:04:09.779] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.ItemDisruption
+[05Dec2024 07:04:09.781] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.flee.Flee
+[05Dec2024 07:04:09.789] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.fisher.FisherMobs
+[05Dec2024 07:04:09.791] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.breakanger.BreakAnger
+[05Dec2024 07:04:09.798] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.BitingMobs
+[05Dec2024 07:04:09.799] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.avoidexplosion.AvoidExplosions
+[05Dec2024 07:04:09.802] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.anticheese.AntiCheese
+[05Dec2024 07:04:09.810] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.illager.shoot.PillagerShoot
+[05Dec2024 07:04:09.813] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.illager.RavagerFeature
+[05Dec2024 07:04:09.817] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.illager.PillagerFleeTarget
+[05Dec2024 07:04:09.819] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.ghast.GhastShoot
+[05Dec2024 07:04:09.821] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.enderman.getoverhere.GetOverHere
+[05Dec2024 07:04:09.831] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.drowned.DrownedSwimming
+[05Dec2024 07:04:09.846] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.creeper.CreeperSwell
+[05Dec2024 07:04:09.852] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.bugs.silverfish.SilverfishFeature
+[05Dec2024 07:04:09.854] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.blaze.BlazeAttack
+[05Dec2024 07:04:09.863] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.animal.NotTemptedAnimals
+[05Dec2024 07:04:09.865] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.animal.AnimalsGroupFlee
+[05Dec2024 07:04:09.866] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.animal.AnimalScaredAttack
+[05Dec2024 07:04:10.030] [modloading-worker-0/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on valkyrienskies-common.mixins.json:mod_compat.create.block.MixinRedstoneContactBlock::handler$zgm000$injectTick exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[05Dec2024 07:04:11.550] [modloading-worker-0/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class yesman.epicfight.world.capabilities.entitypatch.player.PlayerPatch
+[05Dec2024 07:04:15.743] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[05Dec2024 07:04:15.743] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[05Dec2024 07:04:15.743] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[05Dec2024 07:04:15.744] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[05Dec2024 07:04:15.744] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[05Dec2024 07:04:15.744] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[05Dec2024 07:04:15.744] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[05Dec2024 07:04:15.744] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[05Dec2024 07:04:15.744] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[05Dec2024 07:04:15.857] [modloading-worker-0/INFO] [thetadev.constructionwand.ConstructionWand/]: ConstructionWand says hello - may the odds be ever in your favor.
+[05Dec2024 07:04:15.956] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[05Dec2024 07:04:15.956] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[05Dec2024 07:04:15.957] [main/INFO] [terrablender/]: Registered region regions_unexplored:primary to index 1 for type OVERWORLD
+[05Dec2024 07:04:15.957] [main/INFO] [terrablender/]: Registered region regions_unexplored:secondary to index 2 for type OVERWORLD
+[05Dec2024 07:04:15.957] [main/INFO] [terrablender/]: Registered region regions_unexplored:nether to index 1 for type NETHER
+[05Dec2024 07:04:16.130] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Starting version check at https://update.maxhenkel.de/forge/sound_physics_remastered
+[05Dec2024 07:04:17.416] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Found status: AHEAD Current: 1.20.1-1.4.5 Target: null
+[05Dec2024 07:04:17.417] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[05Dec2024 07:04:17.674] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.2.20 Target: 47.3.0
+[05Dec2024 07:04:17.675] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [duneons] Starting version check at https://www.curseforge.com/minecraft/mc-mods/minecraft-dungeons-content/files
+[05Dec2024 07:04:18.220] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
@@ -171,43 +171,43 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
 	... 6 more
-[05Dec2024 01:41:09.568] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
-[05Dec2024 01:41:09.799] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Found status: BETA Current: 0.6.10-7 Target: null
-[05Dec2024 01:41:11.580] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[05Dec2024 01:41:14.300] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/-/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23203!/assets/.mcassetsroot' uses unexpected schema
-[05Dec2024 01:41:14.301] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/-/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23203!/data/.mcassetsroot' uses unexpected schema
-[05Dec2024 01:41:16.886] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag minecraft:skeletons as it is missing following references: duneons:sunkenskeletonyellow (from dungeons_1.18_mc1.20.1 copy.jar)
-[05Dec2024 01:41:17.675] [Worker-Main-1/INFO] [epicfight/]: Register animations from epicfight
-[05Dec2024 01:41:18.783] [Worker-Main-1/INFO] [epicfight/]: Register animations from wom
-[05Dec2024 01:41:20.754] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:duneons:chests/toolsmith_bedroom}.pools[0].entries[0].functions[2]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[05Dec2024 01:41:20.755] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:duneons:chests/weaponsmith_house}.pools[1].entries[2].functions[2]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[05Dec2024 01:41:20.756] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:duneons:chests/armorer_bedroom}.pools[1].entries[3].functions[2]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[05Dec2024 01:41:20.756] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:duneons:chests/weaponsmith_house}.pools[1].entries[4].functions[2]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[05Dec2024 01:41:20.756] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:duneons:chests/weaponsmith_house}.pools[1].entries[5].functions[2]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[05Dec2024 01:41:20.756] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:duneons:chests/toolsmith_bedroom}.pools[0].entries[3].functions[2]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[05Dec2024 01:41:20.756] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:duneons:chests/weaponsmith_house}.pools[1].entries[0].functions[2]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[05Dec2024 01:41:20.757] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:duneons:chests/toolsmith_basement}.pools[1].entries[0].functions[2]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[05Dec2024 01:41:20.757] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:duneons:chests/farmer_house}.pools[0].entries[3].functions[2]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[05Dec2024 01:41:20.757] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:duneons:chests/toolsmith_basement}.pools[1].entries[4].functions[2]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[05Dec2024 01:41:20.757] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:duneons:chests/armorer_bedroom}.pools[1].entries[1].functions[2]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[05Dec2024 01:41:20.758] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:duneons:chests/toolsmith_basement}.pools[1].entries[2].functions[2]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[05Dec2024 01:41:20.759] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:duneons:chests/farmer_house}.pools[0].entries[1].functions[2]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[05Dec2024 01:41:20.760] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:duneons:chests/armorer_bedroom}.pools[1].entries[2].functions[2]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[05Dec2024 01:41:20.760] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:duneons:chests/farmer_house}.pools[0].entries[5].functions[2]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[05Dec2024 01:41:20.761] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:duneons:chests/weaponsmith_house}.pools[1].entries[1].functions[2]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[05Dec2024 01:41:20.761] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:duneons:chests/toolsmith_bedroom}.pools[0].entries[1].functions[2]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[05Dec2024 01:41:20.761] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:duneons:chests/weaponsmith_house}.pools[1].entries[3].functions[2]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[05Dec2024 01:41:20.762] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:duneons:chests/armorer_bedroom}.pools[1].entries[0].functions[2]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[05Dec2024 01:41:20.762] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:duneons:chests/farmer_house}.pools[0].entries[4].functions[2]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[05Dec2024 01:41:20.763] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:duneons:chests/toolsmith_bedroom}.pools[0].entries[2].functions[2]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[05Dec2024 01:41:20.763] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:duneons:chests/toolsmith_basement}.pools[1].entries[5].functions[2]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[05Dec2024 01:41:20.764] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:duneons:chests/toolsmith_basement}.pools[1].entries[1].functions[2]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[05Dec2024 01:41:20.764] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:duneons:chests/farmer_house}.pools[0].entries[2].functions[2]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[05Dec2024 01:41:20.766] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:duneons:chests/weaponsmith_house}.pools[1].entries[6].functions[2]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[05Dec2024 01:41:20.766] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:duneons:chests/farmer_house}.pools[0].entries[0].functions[2]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[05Dec2024 01:41:20.766] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:duneons:chests/toolsmith_basement}.pools[1].entries[3].functions[2]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[05Dec2024 01:41:20.767] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:duneons:chests/toolsmith_bedroom}.pools[0].entries[4].functions[2]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[05Dec2024 01:41:20.798] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe duneons:shieldcraft
+[05Dec2024 07:04:18.223] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
+[05Dec2024 07:04:18.422] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Found status: BETA Current: 0.6.10-7 Target: null
+[05Dec2024 07:04:19.768] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[05Dec2024 07:04:22.486] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/-/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23203!/assets/.mcassetsroot' uses unexpected schema
+[05Dec2024 07:04:22.486] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/-/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23203!/data/.mcassetsroot' uses unexpected schema
+[05Dec2024 07:04:25.057] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag minecraft:skeletons as it is missing following references: duneons:sunkenskeletonyellow (from dungeons_1.18_mc1.20.1 copy.jar)
+[05Dec2024 07:04:25.899] [Worker-Main-2/INFO] [epicfight/]: Register animations from epicfight
+[05Dec2024 07:04:27.172] [Worker-Main-2/INFO] [epicfight/]: Register animations from wom
+[05Dec2024 07:04:28.771] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:duneons:chests/toolsmith_bedroom}.pools[0].entries[0].functions[2]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[05Dec2024 07:04:28.773] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:duneons:chests/weaponsmith_house}.pools[1].entries[2].functions[2]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[05Dec2024 07:04:28.773] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:duneons:chests/armorer_bedroom}.pools[1].entries[3].functions[2]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[05Dec2024 07:04:28.773] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:duneons:chests/weaponsmith_house}.pools[1].entries[4].functions[2]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[05Dec2024 07:04:28.773] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:duneons:chests/weaponsmith_house}.pools[1].entries[5].functions[2]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[05Dec2024 07:04:28.774] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:duneons:chests/toolsmith_bedroom}.pools[0].entries[3].functions[2]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[05Dec2024 07:04:28.774] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:duneons:chests/weaponsmith_house}.pools[1].entries[0].functions[2]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[05Dec2024 07:04:28.774] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:duneons:chests/toolsmith_basement}.pools[1].entries[0].functions[2]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[05Dec2024 07:04:28.775] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:duneons:chests/farmer_house}.pools[0].entries[3].functions[2]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[05Dec2024 07:04:28.775] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:duneons:chests/toolsmith_basement}.pools[1].entries[4].functions[2]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[05Dec2024 07:04:28.775] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:duneons:chests/armorer_bedroom}.pools[1].entries[1].functions[2]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[05Dec2024 07:04:28.776] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:duneons:chests/toolsmith_basement}.pools[1].entries[2].functions[2]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[05Dec2024 07:04:28.776] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:duneons:chests/farmer_house}.pools[0].entries[1].functions[2]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[05Dec2024 07:04:28.776] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:duneons:chests/armorer_bedroom}.pools[1].entries[2].functions[2]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[05Dec2024 07:04:28.776] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:duneons:chests/farmer_house}.pools[0].entries[5].functions[2]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[05Dec2024 07:04:28.777] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:duneons:chests/weaponsmith_house}.pools[1].entries[1].functions[2]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[05Dec2024 07:04:28.777] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:duneons:chests/toolsmith_bedroom}.pools[0].entries[1].functions[2]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[05Dec2024 07:04:28.777] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:duneons:chests/weaponsmith_house}.pools[1].entries[3].functions[2]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[05Dec2024 07:04:28.778] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:duneons:chests/armorer_bedroom}.pools[1].entries[0].functions[2]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[05Dec2024 07:04:28.778] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:duneons:chests/farmer_house}.pools[0].entries[4].functions[2]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[05Dec2024 07:04:28.778] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:duneons:chests/toolsmith_bedroom}.pools[0].entries[2].functions[2]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[05Dec2024 07:04:28.779] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:duneons:chests/toolsmith_basement}.pools[1].entries[5].functions[2]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[05Dec2024 07:04:28.779] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:duneons:chests/toolsmith_basement}.pools[1].entries[1].functions[2]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[05Dec2024 07:04:28.779] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:duneons:chests/farmer_house}.pools[0].entries[2].functions[2]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[05Dec2024 07:04:28.779] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:duneons:chests/weaponsmith_house}.pools[1].entries[6].functions[2]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[05Dec2024 07:04:28.780] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:duneons:chests/farmer_house}.pools[0].entries[0].functions[2]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[05Dec2024 07:04:28.780] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:duneons:chests/toolsmith_basement}.pools[1].entries[3].functions[2]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[05Dec2024 07:04:28.780] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:duneons:chests/toolsmith_bedroom}.pools[0].entries[4].functions[2]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[05Dec2024 07:04:28.819] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe duneons:shieldcraft
 com.google.gson.JsonSyntaxException: Unknown item 'duneons:deleted_mod_element'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.2.20-universal.jar%23208!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.2.20-universal.jar%23208!/:?]
@@ -238,7 +238,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'duneons:deleted_mod_element'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[05Dec2024 01:41:20.802] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe duneons:craftdiamonddungeonpickaxe
+[05Dec2024 07:04:28.824] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe duneons:craftdiamonddungeonpickaxe
 com.google.gson.JsonSyntaxException: Unknown item 'duneons:diamonddungeonpickaxe'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.2.20-universal.jar%23208!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.2.20-universal.jar%23208!/:?]
@@ -269,7 +269,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'duneons:diamonddungeonpickaxe
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[05Dec2024 01:41:20.804] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe duneons:giangcable
+[05Dec2024 07:04:28.826] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe duneons:giangcable
 com.google.gson.JsonSyntaxException: Unknown item 'duneons:deleted_mod_element'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -305,7 +305,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'duneons:deleted_mod_element'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[05Dec2024 01:41:20.808] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe duneons:guardchestplatecraft
+[05Dec2024 07:04:28.830] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe duneons:guardchestplatecraft
 com.google.gson.JsonSyntaxException: Unknown item 'duneons:strengtheniron'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -341,7 +341,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'duneons:strengtheniron'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[05Dec2024 01:41:20.838] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe duneons:cascadinglogcraft
+[05Dec2024 07:04:28.848] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe duneons:cascadinglogcraft
 com.google.gson.JsonSyntaxException: Unknown item 'duneons:deleted_mod_element'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -377,7 +377,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'duneons:deleted_mod_element'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[05Dec2024 01:41:20.855] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe duneons:craftknightchestplate
+[05Dec2024 07:04:28.858] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe duneons:craftknightchestplate
 com.google.gson.JsonSyntaxException: Unknown item 'duneons:strengtheniron'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -413,7 +413,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'duneons:strengtheniron'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[05Dec2024 01:41:20.862] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe duneons:rubycraft
+[05Dec2024 07:04:28.867] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe duneons:rubycraft
 com.google.gson.JsonSyntaxException: Unknown item 'duneons:ruby'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -449,7 +449,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'duneons:ruby'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[05Dec2024 01:41:20.883] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe duneons:craftgold
+[05Dec2024 07:04:28.888] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe duneons:craftgold
 com.google.gson.JsonSyntaxException: Unknown item 'duneons:strengthengoldore'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -484,7 +484,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'duneons:strengthengoldore'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[05Dec2024 01:41:20.889] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe duneons:blazestatuecraft
+[05Dec2024 07:04:28.897] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe duneons:blazestatuecraft
 com.google.gson.JsonSyntaxException: Unknown item 'duneons:deleted_mod_element'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.2.20-universal.jar%23208!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.2.20-universal.jar%23208!/:?]
@@ -515,7 +515,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'duneons:deleted_mod_element'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[05Dec2024 01:41:20.912] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe duneons:rubyblockcraft1
+[05Dec2024 07:04:28.924] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe duneons:rubyblockcraft1
 com.google.gson.JsonSyntaxException: Unknown item 'duneons:ruby'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -551,7 +551,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'duneons:ruby'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[05Dec2024 01:41:20.921] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe duneons:sapfireswordcraft
+[05Dec2024 07:04:28.927] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe duneons:sapfireswordcraft
 com.google.gson.JsonSyntaxException: Unknown item 'duneons:sapfirevert'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -587,7 +587,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'duneons:sapfirevert'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[05Dec2024 01:41:20.926] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe duneons:bigcadlecraft
+[05Dec2024 07:04:28.931] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe duneons:bigcadlecraft
 com.google.gson.JsonSyntaxException: Unknown item 'duneons:deleted_mod_element'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.2.20-universal.jar%23208!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.2.20-universal.jar%23208!/:?]
@@ -618,58 +618,47 @@ com.google.gson.JsonSyntaxException: Unknown item 'duneons:deleted_mod_element'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[05Dec2024 01:41:20.935] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 28 recipes
-[05Dec2024 01:41:21.116] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3012 advancements
-[05Dec2024 01:41:21.239] [main/INFO] [insane96mcp.insanelib.InsaneLib/]: Reloading InsaneLib JsonFeature Json
-[05Dec2024 01:41:23.549] [main/WARN] [org.valkyrienskies.mod.common.config.MassDatapackResolver/]: No specified tag 'minecraft:carpets' doesn't exist!
-[05Dec2024 01:41:24.189] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[05Dec2024 01:41:24.190] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[05Dec2024 01:41:24.190] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[05Dec2024 01:41:24.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[05Dec2024 01:41:24.284] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[05Dec2024 01:41:24.341] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[05Dec2024 01:41:24.468] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[05Dec2024 01:41:24.469] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[05Dec2024 01:41:24.469] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[05Dec2024 01:41:24.470] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[05Dec2024 01:41:24.506] [Thread-1/INFO] [de.cadentem.cave_dweller.CaveDweller/]: Server configuration has been reloaded
-[05Dec2024 01:41:25.305] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[05Dec2024 01:41:25.306] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
-[05Dec2024 01:41:25.306] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[05Dec2024 01:41:26.298] [Server thread/INFO] [org.valkyrienskies.core.impl.networking.VSNetworking/]: We are not using UDP, falling back to TCP
-[05Dec2024 01:41:29.694] [Server thread/INFO] [net.regions_unexplored.RegionsUnexploredMod/]: Loading dimension "minecraft:the_nether" with biome source: "minecraft:multi_noise".
-[05Dec2024 01:41:29.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[05Dec2024 01:41:31.699] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
-[05Dec2024 01:41:32.764] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
-[05Dec2024 01:41:33.767] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
-[05Dec2024 01:41:33.941] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Dec2024 01:41:34.019] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Dec2024 01:41:34.079] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Dec2024 01:41:34.104] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Dec2024 01:41:34.165] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Dec2024 01:41:34.208] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Dec2024 01:41:34.231] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Dec2024 01:41:34.248] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Dec2024 01:41:34.268] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Dec2024 01:41:34.279] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Dec2024 01:41:34.704] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Dec2024 01:41:34.780] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
-[05Dec2024 01:41:35.200] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Dec2024 01:41:35.723] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Dec2024 01:41:35.782] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
-[05Dec2024 01:41:36.213] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Dec2024 01:41:36.704] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Dec2024 01:41:36.783] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
-[05Dec2024 01:41:37.201] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Dec2024 01:41:37.734] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 43%
-[05Dec2024 01:41:37.786] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
-[05Dec2024 01:41:38.141] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 8444 ms
-[05Dec2024 01:41:38.145] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (13.648s)! For help, type "help"
-[05Dec2024 01:41:38.204] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[05Dec2024 01:42:20.791] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ASPESTO[/100.80.95.101:63383] logged in with entity id 140 at (-58.13266738881178, 136.0, -40.10023618686074)
-[05Dec2024 01:42:20.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ASPESTO joined the game
-[05Dec2024 01:42:23.426] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
-[05Dec2024 01:43:34.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ASPESTO: The difficulty has been set to Peaceful]
-[05Dec2024 03:10:48.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ASPESTO: Set the weather to clear]
-[05Dec2024 05:21:27.210] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ASPESTO lost connection: Disconnected
-[05Dec2024 05:21:27.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ASPESTO left the game
+[05Dec2024 07:04:28.937] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 28 recipes
+[05Dec2024 07:04:29.077] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3012 advancements
+[05Dec2024 07:04:29.208] [main/INFO] [insane96mcp.insanelib.InsaneLib/]: Reloading InsaneLib JsonFeature Json
+[05Dec2024 07:04:31.673] [main/WARN] [org.valkyrienskies.mod.common.config.MassDatapackResolver/]: No specified tag 'minecraft:carpets' doesn't exist!
+[05Dec2024 07:04:32.453] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[05Dec2024 07:04:32.454] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[05Dec2024 07:04:32.455] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[05Dec2024 07:04:32.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[05Dec2024 07:04:32.585] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[05Dec2024 07:04:32.606] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[05Dec2024 07:04:32.681] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[05Dec2024 07:04:32.682] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[05Dec2024 07:04:32.682] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[05Dec2024 07:04:32.682] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[05Dec2024 07:04:32.704] [Thread-1/INFO] [de.cadentem.cave_dweller.CaveDweller/]: Server configuration has been reloaded
+[05Dec2024 07:04:32.707] [Thread-1/INFO] [de.cadentem.cave_dweller.CaveDweller/]: Server configuration has been reloaded
+[05Dec2024 07:04:33.419] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[05Dec2024 07:04:33.420] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[05Dec2024 07:04:33.420] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[05Dec2024 07:04:34.396] [Server thread/INFO] [org.valkyrienskies.core.impl.networking.VSNetworking/]: We are not using UDP, falling back to TCP
+[05Dec2024 07:04:36.673] [Server thread/INFO] [net.regions_unexplored.RegionsUnexploredMod/]: Loading dimension "minecraft:the_nether" with biome source: "minecraft:multi_noise".
+[05Dec2024 07:04:36.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[05Dec2024 07:04:39.372] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Dec2024 07:04:39.399] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Dec2024 07:04:39.414] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Dec2024 07:04:39.427] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Dec2024 07:04:39.439] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Dec2024 07:04:39.454] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Dec2024 07:04:39.686] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Dec2024 07:04:40.035] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[05Dec2024 07:04:40.176] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Dec2024 07:04:40.678] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Dec2024 07:04:41.036] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[05Dec2024 07:04:41.179] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Dec2024 07:04:41.676] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 19%
+[05Dec2024 07:04:42.037] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[05Dec2024 07:04:42.175] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 91%
+[05Dec2024 07:04:42.264] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5590 ms
+[05Dec2024 07:04:42.265] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (9.567s)! For help, type "help"
+[05Dec2024 07:04:42.319] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[05Dec2024 07:05:12.502] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ASPESTO[/100.80.95.101:52285] logged in with entity id 114 at (-73.73104236026363, 192.0, -50.90418880974794)
+[05Dec2024 07:05:12.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ASPESTO joined the game
+[05Dec2024 07:05:15.389] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[05Dec2024 07:07:23.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ASPESTO: Set the weather to clear]
