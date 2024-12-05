@@ -670,3 +670,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'duneons:deleted_mod_element'
 [05Dec2024 01:42:20.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ASPESTO joined the game
 [05Dec2024 01:42:23.426] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
 [05Dec2024 01:43:34.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ASPESTO: The difficulty has been set to Peaceful]
+[05Dec2024 03:10:48.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ASPESTO: Set the weather to clear]
