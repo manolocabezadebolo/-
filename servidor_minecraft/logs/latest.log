@@ -1572,3 +1572,4 @@ java.lang.NullPointerException: null
 [05Dec2024 23:05:17.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ASPESTO: Set the time to 1000]
 [05Dec2024 23:16:26.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ASPESTO: Set the time to 1000]
 [05Dec2024 23:26:34.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ASPESTO: Set the time to 1000]
+[05Dec2024 23:43:23.286] [Server thread/INFO] [org.valkyrienskies.eureka.util.ShipAssembler/]: Assembled ship with 139 blocks, out of 1000000000 allowed
