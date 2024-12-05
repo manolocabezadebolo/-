@@ -2130,6 +2130,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/ornate_iron_window_pane": {
+    "criteria": {
+      "has_ingredient": "2024-12-05 05:09:39 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_deepslate_slab_recycling": {
     "criteria": {
       "has_polished_cut_deepslate_slab": "2024-12-05 02:49:44 +0000"
