@@ -22,7 +22,8 @@
       "minecraft:ocean": "2024-11-18 03:31:57 +0000",
       "minecraft:snowy_beach": "2024-11-18 03:33:02 +0000",
       "minecraft:old_growth_birch_forest": "2024-11-18 03:31:36 +0000",
-      "minecraft:meadow": "2024-11-18 01:41:29 +0000"
+      "minecraft:meadow": "2024-11-18 01:41:29 +0000",
+      "minecraft:plains": "2024-12-05 20:33:28 +0000"
     },
     "done": false
   },
@@ -2187,6 +2188,12 @@
   "create:display_link": {
     "criteria": {
       "0": "2024-12-05 07:16:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/nozzle": {
+    "criteria": {
+      "has_item": "2024-12-05 20:32:44 +0000"
     },
     "done": true
   },
