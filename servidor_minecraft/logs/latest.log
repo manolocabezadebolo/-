@@ -662,3 +662,41 @@ com.google.gson.JsonSyntaxException: Unknown item 'duneons:deleted_mod_element'
 [05Dec2024 07:05:12.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ASPESTO joined the game
 [05Dec2024 07:05:15.389] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
 [05Dec2024 07:07:23.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ASPESTO: Set the weather to clear]
+[05Dec2024 07:16:35.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ASPESTO: The difficulty has been set to Peaceful]
+[05Dec2024 07:16:57.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ASPESTO has made the advancement [Big Data]
+[05Dec2024 07:23:00.884] [Server thread/INFO] [org.valkyrienskies.eureka.util.ShipAssembler/]: Assembled ship with 29 blocks, out of 1000000000 allowed
+[05Dec2024 07:23:09.138] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8547070650000006E7, 119.99999907321565, 9.200870405882597] -> [83.7999630458653, 121.79999902553193, 1.2290059650000006E7] returning empty list! this might break things
+[05Dec2024 07:23:18.711] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundPlayerActionPacket@673d0b02, suppressing error
+java.lang.NullPointerException: null
+	at org.valkyrienskies.clockwork.content.contraptions.phys.bearing.PhysBearingBlockEntity.destroy(PhysBearingBlockEntity.java:402) ~[clockwork-1.20.1-0.1.13-forge-8cf946b78e%20copy.jar%23157!/:?]
+	at com.simibubi.create.foundation.block.IBE.onRemove(IBE.java:48) ~[create-1.20.1-0.5.1.f%20copy.jar%23164!/:0.5.1.f]
+	at com.simibubi.create.content.kinetics.base.KineticBlock.m_6810_(KineticBlock.java:48) ~[create-1.20.1-0.5.1.f%20copy.jar%23164!/:0.5.1.f]
+	at net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase.m_60753_(BlockBehaviour.java:754) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.world.level.chunk.LevelChunk.m_6978_(LevelChunk.java:248) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.world.level.Level.m_6933_(Level.java:219) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.world.level.Level.m_7731_(Level.java:196) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraftforge.common.extensions.IForgeBlock.onDestroyedByPlayer(IForgeBlock.java:195) ~[forge-1.20.1-47.2.20-universal.jar%23208!/:?]
+	at net.minecraftforge.common.extensions.IForgeBlockState.onDestroyedByPlayer(IForgeBlockState.java:129) ~[forge-1.20.1-47.2.20-universal.jar%23208!/:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.removeBlock(ServerPlayerGameMode.java:270) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.m_9280_(ServerPlayerGameMode.java:244) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.m_215116_(ServerPlayerGameMode.java:218) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.m_214168_(ServerPlayerGameMode.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_7502_(ServerGamePacketListenerImpl.java:1020) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.network.protocol.game.ServerboundPlayerActionPacket.m_5797_(ServerboundPlayerActionPacket.java:42) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.network.protocol.game.ServerboundPlayerActionPacket.m_5797_(ServerboundPlayerActionPacket.java:8) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[05Dec2024 07:23:18.732] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity vs_clockwork:phys_bearing @ BlockPos{x=-28547069, y=123, z=12290058} state Block{minecraft:air} invalid for ticking:
+[05Dec2024 07:23:21.328] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 110, but a ship with this ShipId does not exist!
