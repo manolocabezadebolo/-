@@ -1551,3 +1551,16 @@ java.lang.NullPointerException: null
 [05Dec2024 22:44:31.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ASPESTO joined the game
 [05Dec2024 22:44:53.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ASPESTO: Set the weather to clear]
 [05Dec2024 22:44:59.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ASPESTO: Set the time to 1000]
+[05Dec2024 22:50:16.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ASPESTO> -70 201 -60
+[05Dec2024 22:50:42.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ASPESTO> -107 218 -23
+[05Dec2024 22:52:23.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ASPESTO> -106 215 -59
+[05Dec2024 22:52:45.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ASPESTO> -85 201 -82
+[05Dec2024 22:53:10.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ASPESTO: Successfully filled 1111 block(s)]
+[05Dec2024 22:53:47.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ASPESTO> -69 201 -37
+[05Dec2024 22:54:17.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ASPESTO> -106 220 -63
+[05Dec2024 22:54:43.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ASPESTO: Successfully filled 1728 block(s)]
+[05Dec2024 22:55:25.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ASPESTO: Set the time to 1000]
+[05Dec2024 22:55:55.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ASPESTO> -107 222 -12
+[05Dec2024 22:56:24.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ASPESTO> -69 201 -36
+[05Dec2024 22:56:44.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ASPESTO: Successfully filled 1518 block(s)]
+[05Dec2024 22:57:26.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ASPESTO> -81 201 -14
