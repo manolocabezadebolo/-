@@ -7136,3 +7136,48 @@ com.google.gson.JsonSyntaxException: Unknown item 'duneons:deleted_mod_element'
 [05Dec2024 19:44:53.465] [Netty Epoll Server IO #5/DEBUG] [org.valkyrienskies.core.impl.networking.NetworkChannel/]: Server received packet of type: PacketType(channel=org.valkyrienskies.core.impl.networking.NetworkChannel@12654148, id=10, name=SimplePacket - class org.valkyrienskies.mod.common.networking.PacketPlayerDriving)
 [05Dec2024 19:44:53.516] [Netty Epoll Server IO #5/DEBUG] [org.valkyrienskies.core.impl.networking.NetworkChannel/]: Server received packet of type: PacketType(channel=org.valkyrienskies.core.impl.networking.NetworkChannel@12654148, id=10, name=SimplePacket - class org.valkyrienskies.mod.common.networking.PacketPlayerDriving)
 [05Dec2024 19:44:53.566] [Netty Epoll Server IO #5/DEBUG] [org.valkyrienskies.core.impl.networking.NetworkChannel/]: Server received packet of type: PacketType(channel=org.valkyrienskies.core.impl.networking.NetworkChannel@12654148, id=10, name=SimplePacket - class org.valkyrienskies.mod.common.networking.PacketPlayerDriving)
+[05Dec2024 19:46:09.346] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 19:46:09.361] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 19:48:32.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ASPESTO: Set the time to 1000]
+[05Dec2024 19:49:31.860] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1783425 : 768128
+[05Dec2024 19:49:31.861] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 114, but a ship with this ShipId does not exist!
+[05Dec2024 19:49:31.864] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 55fc41ac-e97a-4cf5-934e-481a421b5dd6 unwatched ships [114]
+[05Dec2024 19:51:09.344] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 19:51:09.359] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 19:52:11.743] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1782912 : 768128
+[05Dec2024 19:52:11.744] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 55fc41ac-e97a-4cf5-934e-481a421b5dd6 unwatched ships [116]
+[05Dec2024 19:52:21.141] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1782657 : 768128
+[05Dec2024 19:52:21.141] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 55fc41ac-e97a-4cf5-934e-481a421b5dd6 unwatched ships [117]
+[05Dec2024 19:52:31.997] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundPlayerActionPacket@36ff68c9, suppressing error
+java.lang.NullPointerException: null
+	at org.valkyrienskies.clockwork.content.contraptions.phys.bearing.PhysBearingBlockEntity.destroy(PhysBearingBlockEntity.java:402) ~[clockwork-1.20.1-0.1.13-forge-8cf946b78e%20copy.jar%23157!/:?]
+	at com.simibubi.create.foundation.block.IBE.onRemove(IBE.java:48) ~[create-1.20.1-0.5.1.f%20copy.jar%23164!/:0.5.1.f]
+	at com.simibubi.create.content.kinetics.base.KineticBlock.m_6810_(KineticBlock.java:48) ~[create-1.20.1-0.5.1.f%20copy.jar%23164!/:0.5.1.f]
+	at net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase.m_60753_(BlockBehaviour.java:754) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.world.level.chunk.LevelChunk.m_6978_(LevelChunk.java:248) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.world.level.Level.m_6933_(Level.java:219) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.world.level.Level.m_7731_(Level.java:196) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraftforge.common.extensions.IForgeBlock.onDestroyedByPlayer(IForgeBlock.java:195) ~[forge-1.20.1-47.2.20-universal.jar%23208!/:?]
+	at net.minecraftforge.common.extensions.IForgeBlockState.onDestroyedByPlayer(IForgeBlockState.java:129) ~[forge-1.20.1-47.2.20-universal.jar%23208!/:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.removeBlock(ServerPlayerGameMode.java:270) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.m_9280_(ServerPlayerGameMode.java:244) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.m_215116_(ServerPlayerGameMode.java:218) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.m_214168_(ServerPlayerGameMode.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_7502_(ServerGamePacketListenerImpl.java:1020) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.network.protocol.game.ServerboundPlayerActionPacket.m_5797_(ServerboundPlayerActionPacket.java:42) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.network.protocol.game.ServerboundPlayerActionPacket.m_5797_(ServerboundPlayerActionPacket.java:8) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[05Dec2024 19:52:32.046] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity vs_clockwork:phys_bearing @ BlockPos{x=146, y=121, z=8} state Block{minecraft:air} invalid for ticking:
