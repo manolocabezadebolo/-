@@ -10406,3 +10406,8 @@ java.lang.NullPointerException: null
 [05Dec2024 23:05:17.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ASPESTO: Set the time to 1000]
 [05Dec2024 23:07:11.385] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05Dec2024 23:07:11.397] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 23:12:11.382] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 23:12:11.396] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 23:16:26.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ASPESTO: Set the time to 1000]
+[05Dec2024 23:17:11.379] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 23:17:11.393] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
