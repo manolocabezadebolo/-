@@ -729,3 +729,5 @@ java.lang.NullPointerException: null
 [05Dec2024 08:15:16.328] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8534772650000006E7, 124.0, 124.85737909219455] -> [288.4984174241114, 141.74784410902208, 1.2290062650000006E7] returning empty list! this might break things
 [05Dec2024 08:15:30.129] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8534772650000006E7, 124.0, 105.55738879740238] -> [276.85507720708847, 142.6771264962685, 1.2290062650000006E7] returning empty list! this might break things
 [05Dec2024 08:15:35.179] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8534772650000006E7, 124.0, 97.34504341622454] -> [271.24837978815043, 142.4686627646495, 1.2290062650000006E7] returning empty list! this might break things
+[05Dec2024 09:03:40.977] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ASPESTO lost connection: Disconnected
+[05Dec2024 09:03:40.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ASPESTO left the game
