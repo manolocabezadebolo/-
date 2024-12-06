@@ -10505,3 +10505,11 @@ java.lang.NullPointerException: null
 [06Dec2024 00:52:11.423] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [06Dec2024 00:57:11.390] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [06Dec2024 00:57:11.404] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Dec2024 00:59:43.799] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1781633 : 768127
+[06Dec2024 00:59:43.799] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1781634 : 768128
+[06Dec2024 01:00:07.843] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1781634 : 768129
+[06Dec2024 01:00:07.844] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1781633 : 768130
+[06Dec2024 01:02:11.385] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Dec2024 01:02:11.399] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Dec2024 01:07:11.393] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Dec2024 01:07:11.409] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
