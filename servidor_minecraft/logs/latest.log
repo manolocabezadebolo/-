@@ -1,1 +1,3 @@
 [06Dec2024 00:49:03.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ASPESTO: Set the weather to clear]
+[06Dec2024 01:58:45.889] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ASPESTO lost connection: Disconnected
+[06Dec2024 01:58:45.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ASPESTO left the game
