@@ -660,3 +660,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'duneons:deleted_mod_element'
 [07Dec2024 15:08:23.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ASPESTO joined the game
 [07Dec2024 15:08:25.918] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2377ms or 47 ticks behind
 [07Dec2024 15:13:53.459] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8506103650000006E7, 121.0, -21.127477660775185] -> [-94.72298545762897, 203.79998939428887, 1.2290062650000006E7] returning empty list! this might break things
+[07Dec2024 15:22:13.598] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Creeper['Angry Creeper'/350, l='ServerLevel[world]', x=-103.70, y=194.55, z=-2.70] died: Angry Creeper suffocated in a wall
