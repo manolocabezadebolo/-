@@ -656,3 +656,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'duneons:deleted_mod_element'
 [07Dec2024 14:27:31.759] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5497 ms
 [07Dec2024 14:27:31.760] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (9.363s)! For help, type "help"
 [07Dec2024 14:27:31.790] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[07Dec2024 15:08:23.513] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ASPESTO[/100.80.95.101:55557] logged in with entity id 106 at (-97.09830585867167, 201.99998193647474, -14.69488937407732)
+[07Dec2024 15:08:23.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ASPESTO joined the game
+[07Dec2024 15:08:25.918] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2377ms or 47 ticks behind
+[07Dec2024 15:13:53.459] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8506103650000006E7, 121.0, -21.127477660775185] -> [-94.72298545762897, 203.79998939428887, 1.2290062650000006E7] returning empty list! this might break things
